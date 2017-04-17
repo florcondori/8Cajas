@@ -2,7 +2,7 @@
 	font-family: "Tw Cen MT",Helvetica, sans-serif;
 }
 div{
-	display: inline;
+	display: inline-block;
 	height: 70px;
 	background: yellow;
 	padding: 10px;
