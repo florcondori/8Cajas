@@ -2,20 +2,22 @@
 	font-family: "Tw Cen MT",Helvetica, sans-serif;
 }
 div{
+	background: #BDBDBD;
+	border: 1px solid black;
+	width: 80px;
+	height: 80px;
+	margin: 10px;
+}
+.padre{
+	width: 300px;
+	height: auto;
+}
+.hijo{
 	display: inline-block;
-	height: 70px;
-	background: yellow;
-	padding: 10px;
-	font-size: 24px;
-	width: 200px;
-	margin: 15px;
+	margin-right: 0px;
 }
-.text-capitalize{
-	text-transform: capitalize;
-}
-.div-middle{
-	background: red;
-}
-.text-upper{
-	text-transform: uppercase;
+.sin-fondo{
+	background: none;
+	border: none;
+	margin-left:0px;
 }
