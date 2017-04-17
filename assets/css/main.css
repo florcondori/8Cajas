@@ -1,1 +1,19 @@
-main
+*{
+	font-family: "Tw Cen MT",Helvetica, sans-serif;
+}
+div{
+	height: 70px;
+	background: yellow;
+	padding: 10px;
+	font-size: 24px;
+}
+.text-capitalize{
+	text-transform: capitalize;
+}
+.div-middle{
+	background: red;
+	border: 1px solid black;
+}
+.text-upper{
+	text-transform: uppercase;
+}
