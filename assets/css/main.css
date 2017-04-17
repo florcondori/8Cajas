@@ -2,12 +2,13 @@
 	font-family: "Tw Cen MT",Helvetica, sans-serif;
 }
 div{
+	display: inline;
 	height: 70px;
 	background: yellow;
 	padding: 10px;
 	font-size: 24px;
 	width: 200px;
-	margin-top: 20px;
+	margin: 15px;
 }
 .text-capitalize{
 	text-transform: capitalize;
